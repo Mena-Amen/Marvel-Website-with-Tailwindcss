@@ -1,0 +1,6 @@
+textColor : #5b5b5b
+grey : #EEEEEE
+SecColor: #47465A
+HeadingColor: #353535
+HeadingColor2: #484848
+primaryColor: #ffc200
